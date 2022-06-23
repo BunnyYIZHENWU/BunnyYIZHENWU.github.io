@@ -1,0 +1,35 @@
+.head {
+    background-color: #3E3632;
+    font-size: 20px;
+    font-family: "Didot, serif";
+}
+
+.head a {
+    color: #FBB92A;
+}
+
+.head a:hover {
+    color: #FFDF9B;
+    text-decoration: underline;
+}
+
+
+.body {
+    background-color: #4F4840;
+    font-family: "Didot, serif";
+
+}
+.title4 {
+    font-size: 70px;
+    color: #E3DDD2 ;
+    text-decoration: underline;
+}
+
+
+
+
+.tail {
+    background-color: #ECBC6F;
+    font-family: "Noto Serif CJK";
+    font-size: 20px;
+}
